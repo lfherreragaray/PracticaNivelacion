@@ -1,0 +1,3 @@
+*.html
+#ignora el contenido de la carpeta output
+output
